@@ -25,7 +25,7 @@ export default function Home() {
       </div>
       <div>
         <div className='w-full flex flex-row justify-center bg-black'>
-          <Image src="/back.jpg" alt="" width={100} height={100}  className='h-[30vh] md:h-[40vh] w-[30%] md:w-[20%]' />
+          <Image src="/back2.jpeg" alt="" width={130} height={100}  className='h-[30vh] md:h-[40vh] w-full md:w-full' />
 
         </div>
         <div className='p-4 pb-0 flex flex-row '>
