@@ -13,7 +13,7 @@ export default function Home() {
       {/* https://www.terriblytinytales.com/img/home/ttt.svg */}
       <div className='p-4 bg-dark text-white flex flex-row justify-between'>
         <div className='flex'>
-          <img src="https://www.terriblytinytales.com/img/home/ttt.svg " alt="" />
+          <Image src="/ttt.png " width={60} height={10} className='p-[10px]' alt="" />
           <div className=' m-4 border-l-2 border-main px-2'>
             <h1 className='tracking-widest '>STORIES</h1>
           </div>
@@ -25,11 +25,11 @@ export default function Home() {
       </div>
       <div>
         <div className='w-full flex flex-row justify-center bg-black'>
-          <img src="back.jpg" alt=""  className='h-[30vh] md:h-[40vh] w-[30%] md:w-[20%]' />
+          <Image src="/back.jpg" alt="" width={100} height={100}  className='h-[30vh] md:h-[40vh] w-[30%] md:w-[20%]' />
 
         </div>
         <div className='p-4 pb-0 flex flex-row '>
-          <img src="divya.png" alt="" className='w-28 rounded-full relative -top-12' />
+          <Image src="/divya.png" alt="" width={100} height={100}  className='w-28 rounded-full relative -top-12' />
           <div className='px-4'>
             <h1 className='font-bold text-lg'>Katkuri Divyavani</h1>
             <div className='flex mt-2'>
