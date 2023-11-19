@@ -1,0 +1,36 @@
+{
+    "name":"Anuj Gosalia",
+    "image":"/profile.png",
+    "back":"/back2.jpeg",
+    "link":"https://instagram.com/anujgosalia",
+    "description":"Co-founder & CEO at Terribly Tiny Tales",
+    "favorite":125,
+    "likes":12,
+    "views":57800,
+    "love":26000,
+    "followers":6482,
+    "following":245,
+    "posts":[
+        {
+            "title":"A Change world Order",
+            "description":"The world is changing at a feverish pace . Friends , collegues and everyone engaged in knowledge work are beginnning to sense this , including...",
+            "by":"anujgosalia",
+            "views":102,
+            "date":"January 2021"
+        },
+        {
+            "title":"India VS Australia",
+            "description":"Think about it - this cricket series was akin to therapy laying our child trauma up to working with it slowly and surely ever two m...",
+            "by":"anujgosalia",
+            "views":102,
+            "date":"January 2021"
+        },
+        {
+            "title":"Write to Build",
+            "description":"The world is changing at a feverish pace . Friends , collegues and everyone engaged in knowledge work are beginnning to sense this , including...",
+            "by":"anujgosalia",
+            "views":102,
+            "date":"January 2021"
+        }
+    ]
+}
