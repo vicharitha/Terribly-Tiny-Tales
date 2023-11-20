@@ -125,13 +125,7 @@ export default async function Home() {
           </div>
         </div>
         <div className='border-b-2 border-gray w-full'></div>
-        </div>)}
-
-        
-
-
-
-        
+        </div>)}        
         </div>
       </div>
       
